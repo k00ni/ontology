@@ -10,13 +10,13 @@ The IOF Core Ontology resides at  the top of this suite from an architectural pe
 
 # How Status is Specified for IOF Ontologies and Constructs
 
-IOF uses Maturity Level to describe the status of its ontological content. The following are the definitions and usage guide for the Maturity Level (excerpt from [IOF Annotation Vocabulary Guide v2.1](https://oagiscore.atlassian.net/wiki/spaces/IOF/pages/4532142081/IOF+Annotation+Property+Guide+V2.1#Maturity). Note that access to the guide may require [IOF membership](https://industrialontologies.org/participation-request/)):
+IOF uses Maturity Level to describe the status of its ontological content. The following is the definition and usage guide for Maturity Level (excerpt from [IOF Annotation Vocabulary Guide v2.1](https://oagiscore.atlassian.net/wiki/spaces/IOF/pages/4532142081/IOF+Annotation+Property+Guide+V2.1#Maturity). Note that access to the guide may require [IOF membership](https://industrialontologies.org/participation-request/)):
  
 > Note: the term _construct_ is inclusive of both classes and properties. 
 
 * **maturity** – `iof-av:maturity`
  
-  * The annotation property used to indicate the development status of a resource such as an ontology or a construct
+  * annotation property used to indicate the development status of a resource such as an ontology or a construct
 
   * IOf uses the following values when specifying the maturity:
 
