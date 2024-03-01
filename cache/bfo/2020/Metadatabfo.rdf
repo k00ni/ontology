@@ -29,7 +29,7 @@
 		<iof-av:copyright>Copyright (c) 2023 Open Applications Group</iof-av:copyright>
 	</owl:Ontology>
 	
-	<owl:NamedIndividual rdf:about="&iof-maintenance-mod;bfoModule">
+	<owl:NamedIndividual rdf:about="&iof-bfo-mod;bfoModule">
 		<rdf:type rdf:resource="&sm;Module"/>
 		<rdfs:label>IOF BFO Cache Library</rdfs:label>
 		<dct:abstract>The IOF BFO Meta Ontology specifies the metadata for the Cached BFO version</dct:abstract>
